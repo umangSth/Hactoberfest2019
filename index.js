@@ -43,3 +43,4 @@ bot.on("message", async message => {
 })
 
 bot.login(botconfig.token);
+// Mans heart has a hole, a hole which no desire, ambition or wants can fill.  
